@@ -126,7 +126,7 @@
             <mxPoint x="290" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="swGlROKa0ujA1ajaOENd-39" value="&lt;div&gt;1. auto cloud connection during the startup&lt;/div&gt;&lt;div&gt;2. sych devices list&lt;/div&gt;&lt;div&gt;3. receive notification&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="swGlROKa0ujA1ajaOENd-39" value="&lt;div&gt;1. auto cloud connection during the startup&lt;/div&gt;&lt;div&gt;2. sych devices list&lt;/div&gt;&lt;div&gt;3. receive notification and new version&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="920" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swGlROKa0ujA1ajaOENd-43" value="&lt;div&gt;1. view and modify parameter&lt;/div&gt;&lt;div&gt;2. view cached process data&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
